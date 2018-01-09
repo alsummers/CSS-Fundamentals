@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: red;
+}
+p{
+    font-style: italic;
+}
+ul{
+    border: 1px solid black;
+}
+li{
+    color: blue;
+}
+
+ul li:nth-child(3n) {
+    margin-bottom: 10px;
+}
