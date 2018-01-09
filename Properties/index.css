@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    padding: 5px;
+    margin: 2px;
+    position: relative;
+}
+
+.outer {
+    background-color: red;
+    padding: 10px;
+    margin: 2px;
+    
+}

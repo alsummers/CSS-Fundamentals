@@ -5,7 +5,7 @@ body{
 p{
     font-family: sans-serif;
 }
-
+/* 
 #one {
     color: blue;
 }
@@ -34,4 +34,9 @@ p{
 
 .center-text {
     text-align: center;
+} */
+
+p:hover {
+    border: 2px solid black;
+    border radius: .4%;
 }

@@ -1,0 +1,24 @@
+.cute {
+    color: green;
+    text-decoration: underline;
+}
+div p{
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 10px;
+    background-color: grey;
+
+}
+span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#dogText {
+    position: fixed;
+}
+body p{
+    border: 1px solid grey;
+}
+body li{
+    border: 1px solid grey;
+}
