@@ -1,0 +1,37 @@
+body{
+    background-color: brown;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+#one {
+    color: blue;
+}
+
+#two {
+    color: green;
+}
+
+#three {
+    color: black;
+}
+
+#four {
+    color: teal;
+}
+
+.bordered{
+    border: 2px solid white;
+    border-radius: 2%;
+
+}
+.background-black {
+    background-color: black;
+
+}
+
+.center-text {
+    text-align: center;
+}
